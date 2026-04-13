@@ -78,10 +78,10 @@ print(df.head())
 | business.productions | premium   | $85.80    | $85.80        | 100            | 53     | 8      | namecheap         |
 | deep.productions     | available | $14.99    | $52.99        | 72             | 42     | 4      | name.com          |
 | smart.productions    | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC - 48 |
-| fast.productions     | premium   | $250      | $250          | 82             | 53     | 4      | name.com          |
+| art.productions      | premium   | $520      | $520          | 90             | 52     | 3      | namecheap         |
 | agile.productions    | available | $14.99    | $52.99        | 92             | 41     | 5      | name.com          |
 | future.productions   | resell    | —         | —             | 94             | 55     | 6      | Sav.com, LLC      |
-| art.productions      | premium   | $520      | $520          | 90             | 52     | 3      | namecheap         |
+| fast.productions     | premium   | $250      | $250          | 82             | 52     | 4      | name.com          |
 | dark.productions     | available | $14.99    | $52.99        | 52             | 40     | 4      | name.com          |
 | buy.productions      | resell    | —         | —             | 106            | 53     | 3      | Porkbun LLC       |
 
