@@ -80,9 +80,9 @@ print(df.head())
 | FabFour.productions   | available | $14.99    | —             | 82             | 3      | 8      | name.com  |
 | payments.productions  | available | $14.99    | —             | 58             | 33     | 8      | name.com  |
 | partners.productions  | premium   | $500      | —             | 61             | 32     | 8      | name.com  |
-| trends.productions    | available | $14.99    | —             | 60             | 32     | 6      | name.com  |
+| hashtag.productions   | available | $14.99    | —             | 82             | 32     | 7      | name.com  |
 | solutions.productions | premium   | $123.75   | —             | 56             | 31     | 9      | name.com  |
-| maps.productions      | available | $14.99    | —             | 56             | 31     | 4      | name.com  |
+| trends.productions    | available | $14.99    | —             | 60             | 32     | 6      | name.com  |
 | videos.productions    | premium   | $500      | —             | 52             | 30     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
