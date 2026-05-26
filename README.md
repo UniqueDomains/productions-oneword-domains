@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .productions one-word domai
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,997 domains · **Median ask:** $23.27 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/productions`  
 **Best for:** founders, investors, studios
 
@@ -72,7 +72,7 @@ print(df.head())
 | QandA.productions     | available | $50.98    | —             | 80             | 10     | 7      | namecheap |
 | hangon.productions    | available | $14.99    | —             | 82             | 6      | 7      | name.com  |
 | hashtag.productions   | available | $14.99    | —             | 82             | 32     | 7      | name.com  |
-| makeit.productions    | available | $14.99    | —             | 82             | 22     | 7      | name.com  |
+| makeit.productions    | available | $14.99    | —             | 82             | 21     | 7      | name.com  |
 | pierogi.productions   | available | $14.99    | —             | 82             | 7      | 7      | name.com  |
 | stirup.productions    | available | $14.99    | —             | 82             | 3      | 7      | name.com  |
 | dogsick.productions   | available | $14.99    | —             | 90             | 1      | 7      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PRODUCTIONS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PRODUCTIONS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
