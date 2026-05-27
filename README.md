@@ -79,7 +79,7 @@ print(df.head())
 | presents.productions  | available | $14.99    | —             | 80             | 9      | 8      | name.com  |
 | Snickers.productions  | available | $50.98    | —             | 80             | 10     | 8      | namecheap |
 | payments.productions  | available | $14.99    | —             | 58             | 33     | 8      | name.com  |
-| partners.productions  | premium   | $500      | —             | 61             | 32     | 8      | name.com  |
+| partners.productions  | premium   | $500      | —             | 61             | 31     | 8      | name.com  |
 | solutions.productions | premium   | $123.75   | —             | 56             | 31     | 9      | name.com  |
 | trends.productions    | available | $14.99    | —             | 60             | 32     | 6      | name.com  |
 | videos.productions    | premium   | $500      | —             | 52             | 30     | 6      | name.com  |
