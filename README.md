@@ -1,10 +1,10 @@
-# Available .PRODUCTIONS One-Word Domains (11,997)
+# Available .PRODUCTIONS One-Word Domains (11,998)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C997%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C998%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .productions one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,997 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,998 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,997 domains · **Median ask:** $23.27 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,998 domains · **Median ask:** $25.31 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/productions`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/productions`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .PRODUCTIONS one-word 
 
 ### Files
 
-- `productions.csv` — public CSV extract (1,000 rows)
-- `productions.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `productions.csv`, public CSV extract (1,000 rows)
+- `productions.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Acup.productions      | available | $50.98    | —             | 80             | 5      | 5      | namecheap |
-| jewels.productions    | available | $14.99    | —             | 80             | 15     | 6      | name.com  |
-| useit.productions     | available | $14.99    | —             | 94             | 7      | 6      | name.com  |
-| playin.productions    | available | $14.99    | —             | 80             | 10     | 7      | name.com  |
-| playon.productions    | available | $14.99    | —             | 80             | 14     | 7      | name.com  |
-| QandA.productions     | available | $50.98    | —             | 80             | 10     | 7      | namecheap |
-| hangon.productions    | available | $14.99    | —             | 82             | 6      | 7      | name.com  |
-| hashtag.productions   | available | $14.99    | —             | 82             | 32     | 7      | name.com  |
-| makeit.productions    | available | $14.99    | —             | 82             | 21     | 7      | name.com  |
-| pierogi.productions   | available | $14.99    | —             | 82             | 7      | 7      | name.com  |
-| stirup.productions    | available | $14.99    | —             | 82             | 3      | 7      | name.com  |
-| dogsick.productions   | available | $14.99    | —             | 90             | 1      | 7      | name.com  |
-| presents.productions  | available | $14.99    | —             | 80             | 9      | 8      | name.com  |
-| Snickers.productions  | available | $50.98    | —             | 80             | 10     | 8      | namecheap |
-| payments.productions  | available | $14.99    | —             | 58             | 33     | 8      | name.com  |
-| partners.productions  | premium   | $500      | —             | 61             | 31     | 8      | name.com  |
-| solutions.productions | premium   | $123.75   | —             | 56             | 31     | 9      | name.com  |
-| trends.productions    | available | $14.99    | —             | 60             | 32     | 6      | name.com  |
-| videos.productions    | premium   | $500      | —             | 52             | 30     | 6      | name.com  |
-| maps.productions      | available | $14.99    | —             | 56             | 31     | 4      | name.com  |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| BJP.productions    | available | $14.99    | —             | medium         | low    | 3      | name.com          |
+| soon.productions   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
+| are.productions    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| NWO.productions    | available | $14.99    | —             | medium         | low    | 3      | name.com          |
+| wave.productions   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
+| bee.productions    | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo          |
+| shh.productions    | available | $14.99    | —             | medium         | low    | 3      | name.com          |
+| based.productions  | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC  |
+| bow.productions    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo          |
+| SSI.productions    | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| Stars.productions  | resell    | —         | —             | high           | low    | 5      | OVH SAS           |
+| bug.productions    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| acre.productions   | available | $14.99    | —             | medium         | low    | 4      | name.com          |
+| domain.productions | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC      |
+| but.productions    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| boat.productions   | available | $14.99    | —             | high           | low    | 4      | name.com          |
+| future.productions | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC      |
+| cot.productions    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| bulk.productions   | available | $14.99    | —             | high           | low    | 4      | name.com          |
+| people.productions | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 47 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,997 live domains                        |
+| 1,000-row public sample | 11,998 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word domains on the .productions extension. The names range from literal keywords such as finals.productions and jewels.productions to shorter brand-style terms like barup.productions and getup.productions. For founders, the key question is whether the word is clear, memorable, and credible with a niche extension. For investors, the focus is whether the keyword has buyer relevance inside media, film, events, audio, or creative production and whether the ask leaves room for a sensible spread. The median ask across this set is 23.2731, so price discipline matters less than extension fit and end-user relevance.
+This set covers one-word domain names registered under the .productions extension, spanning names like hightech, inspiration, and dogwalking. With a median asking price around $25 and thousands of options across the extension, .productions offers a low-cost path to a short, brandable name for media, film, and creative ventures. Compare each domain's price against its renewal cost and memorability before committing to a name for your project or portfolio.
 
-- Prioritize words that match real production-related use cases.
-- Short, clear words usually carry stronger brand recall.
-- Check whether the keyword feels natural with .productions.
-- Be cautious with famous terms that may raise trademark risk.
+- 11,998 one-word .productions domains, updated daily
+- Median asking price: $25 across the extension
+- Ownable now: short names for media & production brands
+- Compare price vs. renewal before you commit to a domain
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PRODUCTIONS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PRODUCTIONS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
