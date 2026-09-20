@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .productions one-word domai
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,590 domains · **Median ask:** $14.06 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/productions`
 **Best for:** founders, investors, studios
 
@@ -64,19 +64,19 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| BJP.productions    | available | $14.99    | —             | medium         | low    | 3      | name.com          |
+| bjp.productions    | available | $14.99    | —             | medium         | low    | 3      | name.com          |
 | soon.productions   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
 | aft.productions    | premium   | $78.54    | $78.54        | low            | low    | 3      | namesilo          |
 | clv.productions    | available | $6.48     | $50.98        | low            | low    | 3      | namecheap         |
 | wave.productions   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
 | are.productions    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
-| NWO.productions    | available | $14.99    | —             | medium         | low    | 3      | name.com          |
+| nwo.productions    | available | $14.99    | —             | medium         | low    | 3      | name.com          |
 | based.productions  | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC  |
 | aug.productions    | premium   | $38.94    | $38.94        | low            | low    | 3      | namesilo          |
 | shh.productions    | available | $14.99    | —             | medium         | low    | 3      | name.com          |
-| Stars.productions  | resell    | —         | —             | high           | low    | 5      | OVH SAS           |
+| stars.productions  | resell    | —         | —             | high           | low    | 5      | OVH SAS           |
 | bee.productions    | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo          |
-| SSI.productions    | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| ssi.productions    | available | $14.99    | —             | high           | low    | 3      | name.com          |
 | domain.productions | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC      |
 | bow.productions    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo          |
 | xli.productions    | available | $6.48     | $50.98        | low            | low    | 3      | namecheap         |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PRODUCTIONS One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PRODUCTIONS One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
