@@ -1,10 +1,10 @@
-# Available .PRODUCTIONS One-Word Domains (22,839)
+# Available .PRODUCTIONS One-Word Domains (23,391)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C839%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C391%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .productions one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,839 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,391 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,839 domains · **Median ask:** $15.41 · **High-demand under $2,500:** 6
+**Public extract:** 1,000 rows · **Live catalog:** 23,391 domains · **Median ask:** $15.36 · **High-demand under $2,500:** 6
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/productions`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| ang.productions   | available | $14.99    | $52.99        | high           | low    | 3      | name.com          |
-| brand.productions | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 49 |
-| are.productions   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
-| bey.productions   | available | $6.48     | $50.98        | medium         | low    | 3      | namecheap         |
-| den.productions   | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap         |
-| moo.productions   | available | $6.48     | $50.98        | high           | low    | 3      | namecheap         |
-| kim.productions   | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap         |
-| plz.productions   | available | $14.99    | —             | high           | low    | 3      | name.com          |
-| mba.productions   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
-| prn.productions   | available | $6.48     | $50.98        | medium         | low    | 3      | namecheap         |
-| nab.productions   | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo          |
-| rae.productions   | available | $6.48     | $50.98        | medium         | low    | 3      | namecheap         |
-| rib.productions   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo          |
-| sul.productions   | available | $10.99    | $40.49        | medium         | low    | 3      | namesilo          |
-| ron.productions   | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap         |
-| abbe.productions  | available | $10.99    | $40.49        | medium         | low    | 4      | namesilo          |
-| ugh.productions   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo          |
-| abed.productions  | available | $6.48     | $50.98        | medium         | low    | 4      | namecheap         |
-| bass.productions  | premium   | $85.80    | $85.80        | high           | low    | 4      | namecheap         |
-| abls.productions  | available | $10.99    | $40.49        | medium         | low    | 4      | namesilo          |
+| domain                   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| ang.productions          | available | $14.99    | $52.99        | high           | low    | 3      | name.com          |
+| brand.productions        | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 49 |
+| are.productions          | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| bey.productions          | available | $6.48     | $50.98        | medium         | low    | 3      | namecheap         |
+| intelligence.productions | resell    | —         | —             | high           | medium | 12     | —                 |
+| den.productions          | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap         |
+| jin.productions          | available | $5.89     | $32.29        | high           | low    | 3      | spaceship         |
+| kim.productions          | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap         |
+| moo.productions          | available | $6.48     | $50.98        | high           | low    | 3      | namecheap         |
+| mba.productions          | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| plz.productions          | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| mia.productions          | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo          |
+| prn.productions          | available | $6.48     | $50.98        | medium         | low    | 3      | namecheap         |
+| nab.productions          | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo          |
+| psa.productions          | available | $10.50    | —             | high           | low    | 3      | unstoppable       |
+| que.productions          | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo          |
+| rae.productions          | available | $6.48     | $50.98        | medium         | low    | 3      | namecheap         |
+| rib.productions          | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo          |
+| spd.productions          | available | $6.48     | $50.98        | high           | low    | 3      | namecheap         |
+| ron.productions          | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,839 live domains                        |
+| 1,000-row public sample | 23,391 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 6 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
